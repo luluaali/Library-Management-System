@@ -1,0 +1,304 @@
+Book Code,Book Name,Author Name,Availability,Amount,Late Return Fine
+B001,To Kill a Mockingbird,Harper Lee,Yes,AED 141.00,AED 13.00
+B002,1984,George Orwell,Yes,AED 184.00,AED 5.00
+B003,Pride and Prejudice,Jane Austen,No,AED 29.00,AED 10.00
+B004,The Great Gatsby,F. Scott Fitzgerald,Yes,AED 75.00,AED 7.00
+B005,Harry Potter and the Sorcerer's Stone,J.K. Rowling,No,AED 145.00,AED 8.00
+B006,The Catcher in the Rye,J.D. Salinger,Yes,AED 49.00,AED 11.00
+B007,The Hobbit,J.R.R. Tolkien,Yes,AED 120.00,AED 8.00
+B008,Fahrenheit 451,Ray Bradbury,Yes,AED 23.00,AED 10.00
+B009,Jane Eyre,Charlotte Brontë,No,AED 117.00,AED 9.00
+B010,Animal Farm,George Orwell,Yes,AED 118.00,AED 8.00
+B011,Brave New World,Aldous Huxley,No,AED 88.00,AED 10.00
+B012,The Lord of the Rings,J.R.R. Tolkien,Yes,AED 89.00,AED 5.00
+B013,Wuthering Heights,Emily Brontë,Yes,AED 157.00,AED 10.00
+B014,The Chronicles of Narnia,C.S. Lewis,Yes,AED 25.00,AED 8.00
+B015,Lord of the Flies,William Golding,Yes,AED 120.00,AED 7.00
+B016,The Hunger Games,Suzanne Collins,Yes,AED 88.00,AED 8.00
+B017,The Da Vinci Code,Dan Brown,Yes,AED 128.00,AED 14.00
+B018,Moby Dick,Herman Melville,Yes,AED 105.00,AED 5.00
+B019,War and Peace,Leo Tolstoy,Yes,AED 46.00,AED 8.00
+B020,Crime and Punishment,Fyodor Dostoevsky,Yes,AED 88.00,AED 7.00
+B021,The Odyssey,Homer,Yes,AED 140.00,AED 12.00
+B022,Great Expectations,Charles Dickens,No,AED 136.00,AED 10.00
+B023,One Hundred Years of Solitude,Gabriel García Márquez,Yes,AED 62.00,AED 11.00
+B024,The Brothers Karamazov,Fyodor Dostoevsky,No,AED 110.00,AED 9.00
+B025,Catch-22,Joseph Heller,Yes,AED 152.00,AED 14.00
+B026,The Grapes of Wrath,John Steinbeck,No,AED 81.00,AED 9.00
+B027,The Picture of Dorian Gray,Oscar Wilde,No,AED 52.00,AED 5.00
+B028,Slaughterhouse-Five,Kurt Vonnegut,Yes,AED 135.00,AED 9.00
+B029,Anna Karenina,Leo Tolstoy,Yes,AED 93.00,AED 12.00
+B030,A Tale of Two Cities,Charles Dickens,Yes,AED 25.00,AED 7.00
+B031,The Bell Jar,Sylvia Plath,No,AED 157.00,AED 8.00
+B032,The Color Purple,Alice Walker,Yes,AED 114.00,AED 14.00
+B033,Beloved,Toni Morrison,Yes,AED 21.00,AED 8.00
+B034,The Handmaid's Tale,Margaret Atwood,No,AED 103.00,AED 12.00
+B035,The Kite Runner,Khaled Hosseini,Yes,AED 130.00,AED 13.00
+B036,Life of Pi,Yann Martel,Yes,AED 130.00,AED 7.00
+B037,The Book Thief,Markus Zusak,No,AED 74.00,AED 8.00
+B038,The Alchemist,Paulo Coelho,No,AED 155.00,AED 7.00
+B039,Memoirs of a Geisha,Arthur Golden,Yes,AED 34.00,AED 7.00
+B040,The Secret Garden,Frances Hodgson Burnett,Yes,AED 78.00,AED 10.00
+B041,Little Women,Louisa May Alcott,Yes,AED 34.00,AED 10.00
+B042,Gone with the Wind,Margaret Mitchell,No,AED 91.00,AED 10.00
+B043,The Adventures of Huckleberry Finn,Mark Twain,Yes,AED 40.00,AED 5.00
+B044,The Adventures of Tom Sawyer,Mark Twain,Yes,AED 134.00,AED 10.00
+B045,Alice's Adventures in Wonderland,Lewis Carroll,No,AED 21.00,AED 12.00
+B046,Dracula,Bram Stoker,Yes,AED 79.00,AED 14.00
+B047,Frankenstein,Mary Shelley,No,AED 156.00,AED 6.00
+B048,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,Yes,AED 178.00,AED 10.00
+B049,Treasure Island,Robert Louis Stevenson,Yes,AED 107.00,AED 9.00
+B050,Robinson Crusoe,Daniel Defoe,Yes,AED 170.00,AED 14.00
+B051,Gulliver's Travels,Jonathan Swift,No,AED 71.00,AED 14.00
+B052,Don Quixote,Miguel de Cervantes,No,AED 21.00,AED 12.00
+B053,The Count of Monte Cristo,Alexandre Dumas,Yes,AED 59.00,AED 10.00
+B054,The Three Musketeers,Alexandre Dumas,Yes,AED 31.00,AED 10.00
+B055,Les Misérables,Victor Hugo,No,AED 159.00,AED 7.00
+B056,The Phantom of the Opera,Gaston Leroux,Yes,AED 77.00,AED 10.00
+B057,Twenty Thousand Leagues Under the Sea,Jules Verne,Yes,AED 54.00,AED 12.00
+B058,Around the World in Eighty Days,Jules Verne,Yes,AED 142.00,AED 13.00
+B059,The Time Machine,H.G. Wells,Yes,AED 105.00,AED 8.00
+B060,The War of the Worlds,H.G. Wells,Yes,AED 103.00,AED 11.00
+B061,Invisible Man,H.G. Wells,Yes,AED 26.00,AED 5.00
+B062,The Jungle Book,Rudyard Kipling,Yes,AED 88.00,AED 8.00
+B063,Heart of Darkness,Joseph Conrad,Yes,AED 164.00,AED 9.00
+B064,The Old Man and the Sea,Ernest Hemingway,Yes,AED 20.00,AED 12.00
+B065,For Whom the Bell Tolls,Ernest Hemingway,Yes,AED 44.00,AED 10.00
+B066,A Farewell to Arms,Ernest Hemingway,Yes,AED 52.00,AED 7.00
+B067,The Sun Also Rises,Ernest Hemingway,Yes,AED 126.00,AED 11.00
+B068,The Sound and the Fury,William Faulkner,No,AED 159.00,AED 8.00
+B069,As I Lay Dying,William Faulkner,No,AED 79.00,AED 12.00
+B070,Of Mice and Men,John Steinbeck,Yes,AED 64.00,AED 12.00
+B071,East of Eden,John Steinbeck,No,AED 34.00,AED 5.00
+B072,The Pearl,John Steinbeck,No,AED 184.00,AED 9.00
+B073,Lolita,Vladimir Nabokov,Yes,AED 72.00,AED 10.00
+B074,On the Road,Jack Kerouac,Yes,AED 39.00,AED 5.00
+B075,The Outsiders,S.E. Hinton,Yes,AED 57.00,AED 10.00
+B076,The Giver,Lois Lowry,Yes,AED 148.00,AED 5.00
+B077,A Wrinkle in Time,Madeleine L'Engle,Yes,AED 38.00,AED 9.00
+B078,Charlotte's Web,E.B. White,Yes,AED 164.00,AED 7.00
+B079,Where the Wild Things Are,Maurice Sendak,Yes,AED 90.00,AED 14.00
+B080,The Very Hungry Caterpillar,Eric Carle,No,AED 178.00,AED 14.00
+B081,Green Eggs and Ham,Dr. Seuss,Yes,AED 90.00,AED 10.00
+B082,The Cat in the Hat,Dr. Seuss,Yes,AED 96.00,AED 12.00
+B083,Goodnight Moon,Margaret Wise Brown,Yes,AED 79.00,AED 11.00
+B084,Winnie-the-Pooh,A.A. Milne,Yes,AED 29.00,AED 8.00
+B085,Anne of Green Gables,L.M. Montgomery,Yes,AED 37.00,AED 12.00
+B086,The Secret Life of Bees,Sue Monk Kidd,Yes,AED 39.00,AED 6.00
+B087,Water for Elephants,Sara Gruen,Yes,AED 88.00,AED 13.00
+B088,The Help,Kathryn Stockett,Yes,AED 156.00,AED 10.00
+B089,The Lovely Bones,Alice Sebold,No,AED 42.00,AED 12.00
+B090,The Curious Incident of the Dog in the Night-Time,Mark Haddon,Yes,AED 91.00,AED 8.00
+B091,Never Let Me Go,Kazuo Ishiguro,Yes,AED 97.00,AED 13.00
+B092,Atonement,Ian McEwan,No,AED 178.00,AED 8.00
+B093,Cloud Atlas,David Mitchell,Yes,AED 138.00,AED 11.00
+B094,The Road,Cormac McCarthy,Yes,AED 141.00,AED 9.00
+B095,No Country for Old Men,Cormac McCarthy,No,AED 111.00,AED 11.00
+B096,Blood Meridian,Cormac McCarthy,Yes,AED 157.00,AED 14.00
+B097,The Girl with the Dragon Tattoo,Stieg Larsson,Yes,AED 85.00,AED 6.00
+B098,Gone Girl,Gillian Flynn,No,AED 28.00,AED 13.00
+B099,The Fault in Our Stars,John Green,No,AED 73.00,AED 9.00
+B100,Divergent,Veronica Roth,Yes,AED 118.00,AED 10.00
+B101,The Maze Runner,James Dashner,No,AED 79.00,AED 11.00
+B102,Ender's Game,Orson Scott Card,Yes,AED 77.00,AED 11.00
+B103,Dune,Frank Herbert,Yes,AED 41.00,AED 8.00
+B104,Foundation,Isaac Asimov,Yes,AED 81.00,AED 9.00
+B105,Neuromancer,William Gibson,Yes,AED 104.00,AED 8.00
+B106,Snow Crash,Neal Stephenson,Yes,AED 110.00,AED 5.00
+B107,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Yes,AED 153.00,AED 9.00
+B108,Good Omens,Terry Pratchett & Neil Gaiman,Yes,AED 31.00,AED 5.00
+B109,American Gods,Neil Gaiman,Yes,AED 111.00,AED 10.00
+B110,The Sandman,Neil Gaiman,No,AED 35.00,AED 12.00
+B111,Coraline,Neil Gaiman,Yes,AED 110.00,AED 9.00
+B112,Stardust,Neil Gaiman,No,AED 61.00,AED 14.00
+B113,The Perks of Being a Wallflower,Stephen Chbosky,No,AED 82.00,AED 10.00
+B114,Looking for Alaska,John Green,No,AED 87.00,AED 11.00
+B115,Paper Towns,John Green,No,AED 150.00,AED 7.00
+B116,Eleanor & Park,Rainbow Rowell,Yes,AED 23.00,AED 9.00
+B117,The Night Circus,Erin Morgenstern,Yes,AED 172.00,AED 8.00
+B118,The Name of the Wind,Patrick Rothfuss,No,AED 149.00,AED 9.00
+B119,A Game of Thrones,George R.R. Martin,No,AED 74.00,AED 9.00
+B120,A Clash of Kings,George R.R. Martin,No,AED 162.00,AED 14.00
+B121,A Storm of Swords,George R.R. Martin,Yes,AED 56.00,AED 6.00
+B122,The Way of Kings,Brandon Sanderson,No,AED 148.00,AED 8.00
+B123,Mistborn,Brandon Sanderson,Yes,AED 123.00,AED 5.00
+B124,The Lies of Locke Lamora,Scott Lynch,Yes,AED 102.00,AED 7.00
+B125,The Black Company,Glen Cook,Yes,AED 42.00,AED 14.00
+B126,The Blade Itself,Joe Abercrombie,No,AED 64.00,AED 5.00
+B127,Prince of Thorns,Mark Lawrence,Yes,AED 169.00,AED 5.00
+B128,The Fifth Season,N.K. Jemisin,Yes,AED 172.00,AED 10.00
+B129,Ancillary Justice,Ann Leckie,Yes,AED 42.00,AED 13.00
+B130,The Left Hand of Darkness,Ursula K. Le Guin,Yes,AED 111.00,AED 6.00
+B131,A Wizard of Earthsea,Ursula K. Le Guin,Yes,AED 66.00,AED 12.00
+B132,The Dispossessed,Ursula K. Le Guin,Yes,AED 47.00,AED 8.00
+B133,Kindred,Octavia Butler,Yes,AED 138.00,AED 7.00
+B134,Parable of the Sower,Octavia Butler,Yes,AED 71.00,AED 9.00
+B135,The Handmaid's Tale,Margaret Atwood,Yes,AED 37.00,AED 13.00
+B136,Oryx and Crake,Margaret Atwood,Yes,AED 172.00,AED 6.00
+B137,Station Eleven,Emily St. John Mandel,Yes,AED 87.00,AED 5.00
+B138,The Martian,Andy Weir,Yes,AED 78.00,AED 11.00
+B139,Ready Player One,Ernest Cline,Yes,AED 109.00,AED 10.00
+B140,Wool,Hugh Howey,Yes,AED 125.00,AED 7.00
+B141,The Passage,Justin Cronin,Yes,AED 20.00,AED 11.00
+B142,World War Z,Max Brooks,Yes,AED 146.00,AED 12.00
+B143,The Stand,Stephen King,No,AED 74.00,AED 14.00
+B144,It,Stephen King,Yes,AED 97.00,AED 11.00
+B145,The Shining,Stephen King,Yes,AED 128.00,AED 7.00
+B146,Carrie,Stephen King,Yes,AED 94.00,AED 8.00
+B147,Pet Sematary,Stephen King,Yes,AED 142.00,AED 11.00
+B148,Misery,Stephen King,Yes,AED 89.00,AED 5.00
+B149,The Green Mile,Stephen King,Yes,AED 121.00,AED 12.00
+B150,11/22/63,Stephen King,Yes,AED 30.00,AED 5.00
+B151,The Dead Zone,Stephen King,Yes,AED 121.00,AED 12.00
+B152,Salem's Lot,Stephen King,Yes,AED 132.00,AED 9.00
+B153,Interview with the Vampire,Anne Rice,Yes,AED 83.00,AED 11.00
+B154,The Vampire Chronicles,Anne Rice,Yes,AED 134.00,AED 6.00
+B155,The Witching Hour,Anne Rice,Yes,AED 99.00,AED 8.00
+B156,Twilight,Stephenie Meyer,No,AED 143.00,AED 10.00
+B157,New Moon,Stephenie Meyer,Yes,AED 33.00,AED 7.00
+B158,Eclipse,Stephenie Meyer,No,AED 152.00,AED 12.00
+B159,Breaking Dawn,Stephenie Meyer,Yes,AED 40.00,AED 14.00
+B160,City of Bones,Cassandra Clare,No,AED 158.00,AED 14.00
+B161,Clockwork Angel,Cassandra Clare,Yes,AED 89.00,AED 10.00
+B162,Beautiful Creatures,Kami Garcia & Margaret Stohl,Yes,AED 94.00,AED 9.00
+B163,"Hush, Hush",Becca Fitzpatrick,Yes,AED 147.00,AED 5.00
+B164,Fallen,Lauren Kate,No,AED 22.00,AED 10.00
+B165,Shadow and Bone,Leigh Bardugo,Yes,AED 47.00,AED 13.00
+B166,Six of Crows,Leigh Bardugo,Yes,AED 27.00,AED 5.00
+B167,Throne of Glass,Sarah J. Maas,No,AED 135.00,AED 9.00
+B168,A Court of Thorns and Roses,Sarah J. Maas,Yes,AED 104.00,AED 8.00
+B169,Red Rising,Pierce Brown,No,AED 66.00,AED 5.00
+B170,The Fifth Wave,Rick Yancey,Yes,AED 122.00,AED 5.00
+B171,Legend,Marie Lu,Yes,AED 147.00,AED 13.00
+B172,An Ember in the Ashes,Sabaa Tahir,No,AED 119.00,AED 9.00
+B173,The Mortal Instruments,Cassandra Clare,No,AED 36.00,AED 5.00
+B174,Percy Jackson & The Lightning Thief,Rick Riordan,Yes,AED 116.00,AED 10.00
+B175,The Sea of Monsters,Rick Riordan,Yes,AED 138.00,AED 7.00
+B176,The Titan's Curse,Rick Riordan,Yes,AED 89.00,AED 12.00
+B177,The Battle of the Labyrinth,Rick Riordan,Yes,AED 55.00,AED 8.00
+B178,The Last Olympian,Rick Riordan,Yes,AED 79.00,AED 8.00
+B179,The Kane Chronicles,Rick Riordan,Yes,AED 59.00,AED 13.00
+B180,Magnus Chase,Rick Riordan,Yes,AED 151.00,AED 11.00
+B181,Eragon,Christopher Paolini,No,AED 166.00,AED 10.00
+B182,Eldest,Christopher Paolini,Yes,AED 39.00,AED 5.00
+B183,Brisingr,Christopher Paolini,Yes,AED 174.00,AED 13.00
+B184,Inheritance,Christopher Paolini,Yes,AED 163.00,AED 13.00
+B185,The Golden Compass,Philip Pullman,No,AED 42.00,AED 7.00
+B186,The Subtle Knife,Philip Pullman,Yes,AED 34.00,AED 11.00
+B187,The Amber Spyglass,Philip Pullman,Yes,AED 60.00,AED 5.00
+B188,Northern Lights,Philip Pullman,Yes,AED 103.00,AED 11.00
+B189,Artemis Fowl,Eoin Colfer,Yes,AED 21.00,AED 7.00
+B190,The Lightning Thief,Rick Riordan,Yes,AED 172.00,AED 13.00
+B191,Holes,Louis Sachar,No,AED 24.00,AED 12.00
+B192,Bridge to Terabithia,Katherine Paterson,Yes,AED 60.00,AED 11.00
+B193,Number the Stars,Lois Lowry,Yes,AED 24.00,AED 12.00
+B194,The Tale of Despereaux,Kate DiCamillo,Yes,AED 64.00,AED 8.00
+B195,Because of Winn-Dixie,Kate DiCamillo,Yes,AED 168.00,AED 9.00
+B196,Wonder,R.J. Palacio,Yes,AED 147.00,AED 10.00
+B197,Fish in a Tree,Lynda Mullaly Hunt,Yes,AED 96.00,AED 9.00
+B198,Hatchet,Gary Paulsen,Yes,AED 124.00,AED 8.00
+B199,Maniac Magee,Jerry Spinelli,Yes,AED 102.00,AED 6.00
+B200,Tuck Everlasting,Natalie Babbitt,Yes,AED 167.00,AED 10.00
+B201,The BFG,Roald Dahl,Yes,AED 116.00,AED 13.00
+B202,Matilda,Roald Dahl,Yes,AED 161.00,AED 5.00
+B203,Charlie and the Chocolate Factory,Roald Dahl,No,AED 128.00,AED 12.00
+B204,James and the Giant Peach,Roald Dahl,Yes,AED 113.00,AED 7.00
+B205,The Witches,Roald Dahl,Yes,AED 60.00,AED 8.00
+B206,Fantastic Mr. Fox,Roald Dahl,No,AED 117.00,AED 6.00
+B207,The Twits,Roald Dahl,No,AED 184.00,AED 10.00
+B208,Danny the Champion of the World,Roald Dahl,No,AED 114.00,AED 12.00
+B209,Where the Red Fern Grows,Wilson Rawls,Yes,AED 74.00,AED 11.00
+B210,Shiloh,Phyllis Reynolds Naylor,Yes,AED 72.00,AED 10.00
+B211,Old Yeller,Fred Gipson,No,AED 45.00,AED 10.00
+B212,Julie of the Wolves,Jean Craighead George,Yes,AED 172.00,AED 9.00
+B213,Island of the Blue Dolphins,Scott O'Dell,No,AED 103.00,AED 11.00
+B214,Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien,No,AED 125.00,AED 10.00
+B215,The Indian in the Cupboard,Lynne Reid Banks,No,AED 145.00,AED 8.00
+B216,My Side of the Mountain,Jean Craighead George,No,AED 51.00,AED 14.00
+B217,The Yearling,Marjorie Kinnan Rawlings,Yes,AED 27.00,AED 7.00
+B218,Watership Down,Richard Adams,Yes,AED 79.00,AED 6.00
+B219,The Incredible Journey,Sheila Burnford,Yes,AED 172.00,AED 14.00
+B220,Stuart Little,E.B. White,Yes,AED 42.00,AED 9.00
+B221,The Trumpet of the Swan,E.B. White,No,AED 128.00,AED 10.00
+B222,Redwall,Brian Jacques,Yes,AED 129.00,AED 5.00
+B223,The Tale of Peter Rabbit,Beatrix Potter,Yes,AED 31.00,AED 6.00
+B224,The Wind in the Willows,Kenneth Grahame,Yes,AED 49.00,AED 10.00
+B225,The Velveteen Rabbit,Margery Williams,No,AED 124.00,AED 5.00
+B226,Corduroy,Don Freeman,Yes,AED 116.00,AED 7.00
+B227,Make Way for Ducklings,Robert McCloskey,No,AED 38.00,AED 13.00
+B228,The Snowy Day,Ezra Jack Keats,Yes,AED 161.00,AED 5.00
+B229,Curious George,H.A. Rey,No,AED 40.00,AED 10.00
+B230,Madeline,Ludwig Bemelmans,No,AED 109.00,AED 5.00
+B231,Eloise,Kay Thompson,Yes,AED 157.00,AED 9.00
+B232,Harold and the Purple Crayon,Crockett Johnson,Yes,AED 49.00,AED 6.00
+B233,The Little Prince,Antoine de Saint-Exupéry,No,AED 76.00,AED 13.00
+B234,The Little Engine That Could,Watty Piper,Yes,AED 39.00,AED 8.00
+B235,Chicka Chicka Boom Boom,Bill Martin Jr.,Yes,AED 27.00,AED 11.00
+B236,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr.,Yes,AED 174.00,AED 9.00
+B237,If You Give a Mouse a Cookie,Laura Numeroff,Yes,AED 116.00,AED 6.00
+B238,The Giving Tree,Shel Silverstein,Yes,AED 170.00,AED 7.00
+B239,Where the Sidewalk Ends,Shel Silverstein,Yes,AED 106.00,AED 13.00
+B240,A Light in the Attic,Shel Silverstein,Yes,AED 134.00,AED 7.00
+B241,Love You Forever,Robert Munsch,No,AED 68.00,AED 10.00
+B242,Guess How Much I Love You,Sam McBratney,Yes,AED 166.00,AED 9.00
+B243,The Rainbow Fish,Marcus Pfister,No,AED 171.00,AED 10.00
+B244,Stellaluna,Janell Cannon,Yes,AED 150.00,AED 6.00
+B245,Caps for Sale,Esphyr Slobodkina,Yes,AED 143.00,AED 6.00
+B246,Mike Mulligan and His Steam Shovel,Virginia Lee Burton,Yes,AED 56.00,AED 7.00
+B247,The Story of Ferdinand,Munro Leaf,No,AED 27.00,AED 11.00
+B248,Blueberries for Sal,Robert McCloskey,Yes,AED 159.00,AED 14.00
+B249,The Gruffalo,Julia Donaldson,Yes,AED 72.00,AED 8.00
+B250,Room on the Broom,Julia Donaldson,Yes,AED 134.00,AED 9.00
+B251,Stick Man,Julia Donaldson,Yes,AED 158.00,AED 6.00
+B252,The Paper Bag Princess,Robert Munsch,Yes,AED 56.00,AED 7.00
+B253,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,Yes,AED 135.00,AED 14.00
+B254,The True Story of the Three Little Pigs,Jon Scieszka,No,AED 81.00,AED 7.00
+B255,Officer Buckle and Gloria,Peggy Rathmann,Yes,AED 23.00,AED 13.00
+B256,"Click, Clack, Moo: Cows That Type",Doreen Cronin,Yes,AED 86.00,AED 6.00
+B257,Don't Let the Pigeon Drive the Bus!,Mo Willems,Yes,AED 35.00,AED 11.00
+B258,Knuffle Bunny,Mo Willems,No,AED 161.00,AED 5.00
+B259,Pete the Cat,Eric Litwin,Yes,AED 151.00,AED 5.00
+B260,The Day the Crayons Quit,Drew Daywalt,Yes,AED 112.00,AED 13.00
+B261,Dragons Love Tacos,Adam Rubin,Yes,AED 119.00,AED 14.00
+B262,The Book With No Pictures,B.J. Novak,Yes,AED 131.00,AED 8.00
+B263,We're Going on a Bear Hunt,Michael Rosen,Yes,AED 90.00,AED 9.00
+B264,Rosie's Walk,Pat Hutchins,Yes,AED 25.00,AED 7.00
+B265,Freight Train,Donald Crews,No,AED 94.00,AED 5.00
+B266,"Ten, Nine, Eight",Molly Bang,Yes,AED 77.00,AED 12.00
+B267,Owl Moon,Jane Yolen,Yes,AED 122.00,AED 12.00
+B268,To Kill a Mockingbird,Harper Lee,No,AED 43.00,AED 8.00
+B269,1984,George Orwell,Yes,AED 90.00,AED 5.00
+B270,Pride and Prejudice,Jane Austen,Yes,AED 167.00,AED 5.00
+B271,The Great Gatsby,F. Scott Fitzgerald,Yes,AED 167.00,AED 5.00
+B272,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Yes,AED 129.00,AED 8.00
+B273,The Catcher in the Rye,J.D. Salinger,Yes,AED 124.00,AED 10.00
+B274,The Hobbit,J.R.R. Tolkien,No,AED 116.00,AED 14.00
+B275,Fahrenheit 451,Ray Bradbury,No,AED 115.00,AED 14.00
+B276,Jane Eyre,Charlotte Brontë,No,AED 57.00,AED 7.00
+B277,Animal Farm,George Orwell,Yes,AED 109.00,AED 6.00
+B278,Brave New World,Aldous Huxley,No,AED 108.00,AED 9.00
+B279,The Lord of the Rings,J.R.R. Tolkien,Yes,AED 47.00,AED 14.00
+B280,Wuthering Heights,Emily Brontë,Yes,AED 34.00,AED 11.00
+B281,The Chronicles of Narnia,C.S. Lewis,No,AED 26.00,AED 13.00
+B282,Lord of the Flies,William Golding,No,AED 52.00,AED 6.00
+B283,The Hunger Games,Suzanne Collins,No,AED 155.00,AED 12.00
+B284,The Da Vinci Code,Dan Brown,Yes,AED 146.00,AED 13.00
+B285,Moby Dick,Herman Melville,No,AED 122.00,AED 7.00
+B286,War and Peace,Leo Tolstoy,Yes,AED 22.00,AED 9.00
+B287,Crime and Punishment,Fyodor Dostoevsky,Yes,AED 109.00,AED 8.00
+B288,The Odyssey,Homer,No,AED 65.00,AED 12.00
+B289,Great Expectations,Charles Dickens,Yes,AED 82.00,AED 11.00
+B290,One Hundred Years of Solitude,Gabriel García Márquez,Yes,AED 157.00,AED 11.00
+B291,The Brothers Karamazov,Fyodor Dostoevsky,No,AED 119.00,AED 8.00
+B292,Catch-22,Joseph Heller,Yes,AED 159.00,AED 13.00
+B293,The Grapes of Wrath,John Steinbeck,Yes,AED 82.00,AED 9.00
+B294,The Picture of Dorian Gray,Oscar Wilde,No,AED 92.00,AED 7.00
+B295,Slaughterhouse-Five,Kurt Vonnegut,No,AED 160.00,AED 13.00
+B296,Anna Karenina,Leo Tolstoy,Yes,AED 143.00,AED 6.00
+B297,A Tale of Two Cities,Charles Dickens,Yes,AED 145.00,AED 9.00
+B298,The Bell Jar,Sylvia Plath,Yes,AED 64.00,AED 6.00
+B299,The Color Purple,Alice Walker,Yes,AED 20.00,AED 9.00
+B300,Beloved,Toni Morrison,Yes,AED 90.00,AED 13.00
+,,,Yes,,
+,,,Yes,,
+,,,Yes,,
