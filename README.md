@@ -51,7 +51,7 @@ python library_management_system.py
 
 6. Open the local Gradio link shown in the terminal or browser to use the application.
 
-Gradio apps are run as Python scripts, and good README practice is to show exact install and run commands in fenced code blocks. [web:78][web:81][web:94]
+Gradio apps are run as Python scripts, and good README practice is to show exact install and run commands in fenced code blocks.
 
 ## Usage
 
